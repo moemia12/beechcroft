@@ -1,0 +1,33 @@
+Front end test
+
+Please can you build mobile and desktop versions of this recent design we have created for a client. The design has been amended to just include a simple hero and a header with an interactive menu. These are the elements we are keen for you to build for us by means of a test. Please see the designs below:
+
+Canvas links
+
+Mobile:
+https://www.figma.com/file/tW0nANw2i0RWZ5X048LlAg/Beechcroft-Front-End-Development-Test?node-id=1%3A2359
+
+Desktop:
+https://www.figma.com/file/tW0nANw2i0RWZ5X048LlAg/Beechcroft-Front-End-Development-Test?node-id=0%3A1
+
+Prototype links
+
+Mobile:
+https://www.figma.com/proto/tW0nANw2i0RWZ5X048LlAg/Beechcroft-Front-End-Development-Test?page-id=1%3A2359&node-id=1%3A2606&viewport=999%2C4537%2C1&scaling=scale-down
+
+Desktop:
+https://www.figma.com/proto/tW0nANw2i0RWZ5X048LlAg/Beechcroft-Front-End-Development-Test?page-id=0%3A1&node-id=1%3A213&viewport=1759%2C2208%2C0.5&scaling=scale-down
+
+Key objectives
+* All the assets required are included.
+* Use SASS to create the CSS. No CSS frameworks please although mixins and functions in SASS are welcome if desired.
+* Use vanilla JS only please. No jQuery.
+* Comment code where you feel necessary (there’s no right or wrong here we just want to see how you work)
+* As much as possible mimic the behaviours in the prototype. This includes:
+    * Horizontal scroll on the ‘Homes for sale’ navigation on Desktop.
+    * Menu transitions on mobile.
+    * Menu depth levels on mobile, paying special attention to the ‘Homes for sale’ sections with drill downs.
+
+Bonus objectives
+* We invite you to fill in the gaps on the breakpoints between desktop and mobile designs for extra credit.
+* You may notice that the property blocks in ‘Homes for sale’ have underlined location links within the property blocks themselves. The is especially evident on desktop. The goal here is to have these link to location pages but have the whole block link to the property. i.e. this means if a user clicks anywhere in the block they go to the property page unless they click either of the location links then they would go to a location page. The reason we have done this is for SEO so the key thing here is both most be normal HTML links (‘<a href=“…”>’). We are interested to see how you approach this challenge but don’t worry if it’s not 
